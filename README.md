@@ -1,5 +1,5 @@
 # RTOS_Exercise-L-9-MultiCore-Systems
-That's a neat set of experiments! By running your two tasks (Task L, low priority; Task H, high priority) under those four different core-pinning modes, here are the simple, human-written observations you'd get:
+
 
 🧐 Observations from the Four Multicore Tasks
 Mode 1: Both Pinned to Core 0
